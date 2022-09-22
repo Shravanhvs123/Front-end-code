@@ -9,7 +9,7 @@ export class GlobalService {
   constructor() { }
 
   private currentProgramId: number;
-  private token: string;
+  private token: strings;
   private uid: number;
   private suid: number;
   private programName: string;
